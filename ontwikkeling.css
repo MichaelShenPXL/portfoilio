@@ -26,10 +26,9 @@ a:hover{
     transition: ease-in 0.3s;
 }
 .vragen{
-    display: flex;
-    padding: 25px;
-    border: 1px #014f4f solid;
-    margin: 10px;
-    border-radius: 10px;
-    background-color: #ffffff;
+
+    text-decoration: none;
+}
+.vragen td{
+    text-decoration: none;
 }
